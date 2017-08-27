@@ -1,0 +1,2 @@
+# GPBookShop
+ React Redux application
